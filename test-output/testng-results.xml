@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-04T17:58:46Z" name="Default suite" finished-at="2023-03-04T17:58:48Z" duration-ms="2140">
+  <suite started-at="2023-03-04T18:40:35Z" name="Default suite" finished-at="2023-03-04T18:40:37Z" duration-ms="2149">
     <groups>
     </groups>
-    <test started-at="2023-03-04T17:58:46Z" name="Default test" finished-at="2023-03-04T17:58:48Z" duration-ms="2140">
-      <class name="apiChaining.newPhase3Project">
-        <test-method signature="test1()[pri:0, instance:apiChaining.newPhase3Project@41294f8]" started-at="2023-03-04T17:58:46Z" name="test1" finished-at="2023-03-04T17:58:48Z" duration-ms="2125" status="PASS">
+    <test started-at="2023-03-04T18:40:35Z" name="Default test" finished-at="2023-03-04T18:40:37Z" duration-ms="2149">
+      <class name="phase3ProjectwithAWS.newPhase3Project">
+        <test-method signature="test1()[pri:0, instance:phase3ProjectwithAWS.newPhase3Project@41294f8]" started-at="2023-03-04T18:40:35Z" name="test1" finished-at="2023-03-04T18:40:37Z" duration-ms="2133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-      </class> <!-- apiChaining.newPhase3Project -->
+      </class> <!-- phase3ProjectwithAWS.newPhase3Project -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

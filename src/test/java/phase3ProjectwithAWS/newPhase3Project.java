@@ -1,4 +1,4 @@
-package apiChaining;
+package phase3ProjectwithAWS;
 
 import org.json.JSONObject;
 import org.testng.Assert;
